@@ -1,8 +1,8 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
 
-##Euid
+## Euid
 kr1347
 
-##Favorite Linex command
+## Favorite Linex command
 nano
