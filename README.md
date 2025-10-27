@@ -1,4 +1,8 @@
 # CSCE1015 - Hochstetler
 Assignment repository for UNT CSCE1015
 
-Modified by Krishna Reddy
+##Euid
+kr1347
+
+##Favorite Linex command
+nano
